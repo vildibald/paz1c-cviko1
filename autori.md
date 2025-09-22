@@ -2,4 +2,4 @@
 
 Autori su:
 
-viliam.kacala@upjs.sk
+viliam.kacala@upjs.sk - Ucitel na UPJS
